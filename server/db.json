@@ -1,0 +1,16 @@
+{
+    "expenses": [
+      { "id": 1, "month_id": "2020-11", "category": "Transmission-Expenses", "target": 49, "achievement": 83 },
+      { "id": 2, "month_id": "2020-11", "category": "Power-Expenses", "target": 51, "achievement": 56 },
+      { "id": 3, "month_id": "2020-11", "category": "Radio-Frequency-Usage", "target": 42, "achievement": 79 },
+      { "id": 4, "month_id": "2020-12", "category": "Transmission-Expenses", "target": 49, "achievement": 58 },
+      { "id": 5, "month_id": "2020-12", "category": "Power-Expenses", "target": 51, "achievement": 84 },
+      { "id": 6, "month_id": "2020-12", "category": "Radio-Frequency-Usage", "target": 42, "achievement": 45 },
+      { "id": 7, "month_id": "2021-01", "category": "Transmission-Expenses", "target": 49, "achievement": 39 },
+      { "id": 8, "month_id": "2021-01", "category": "Power-Expenses", "target": 51, "achievement": 52 },
+      { "id": 9, "month_id": "2021-01", "category": "Radio-Frequency-Usage", "target": 42, "achievement": 37 },
+      { "id": 10, "month_id": "2021-02", "category": "Transmission-Expenses", "target": 49, "achievement": 67 },
+      { "id": 11, "month_id": "2021-02", "category": "Power-Expenses", "target": 51, "achievement": 66 },
+      { "id": 12, "month_id": "2021-02", "category": "Radio-Frequency-Usage", "target": 42, "achievement": 86 }
+    ]
+}
